@@ -4,6 +4,9 @@
         color:red!important;
     }
 
+    input{
+        width:100px!important;    
+}
     .merchant-logo {
         display: none;
     }
