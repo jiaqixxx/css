@@ -1,12 +1,10 @@
 
-
-    h5 {
-        color:red!important;
+@media (min-width: 768px) {
+     #payment-show {
+        width: 50%;
+        margin: auto;
     }
 
-    input{
-        width:100px!important;    
-}
     .merchant-logo {
         display: none;
     }
@@ -36,6 +34,7 @@
         padding: 6px 12px;
         font-size: 14px;
     }
+}
 
 @media (max-width: 768px) {
 
