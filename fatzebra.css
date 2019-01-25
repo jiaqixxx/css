@@ -1,5 +1,5 @@
 
-@media (min-width: 768px) {
+
      #payment-show {
         width: 50%;
         margin: auto;
@@ -34,7 +34,7 @@
         padding: 6px 12px;
         font-size: 14px;
     }
-}
+
 
 @media (max-width: 768px) {
 
