@@ -1,5 +1,7 @@
-
-
+     .merchant-logo h2 {
+          display: none;
+     }
+     
      #payment-show {
         width: 50%;
         margin: auto;
