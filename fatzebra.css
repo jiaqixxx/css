@@ -1,0 +1,40 @@
+
+
+    #payment-show {
+        width: 50% !important;
+        margin: auto !important;
+    }
+
+    .merchant-logo {
+        display: none;
+    }
+
+    #card fieldset .control-group:nth-child(1) {
+        display: inline-block;
+        width: 40%;
+    }
+
+    #card fieldset .control-group:nth-child(2) {
+        display: inline-block;
+        width: 50%;
+        float: right
+    }
+
+    body.v2 input.payment-input, body.payment input.payment-input {
+        border-radius: 4px;
+        height: 2.8rem;
+        width: 100%;
+    }
+
+    .control-group {
+        margin-bottom: 0;
+    }
+
+    .control-group .controls .btn {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+
+@media (max-width: 768px) {
+
+}
