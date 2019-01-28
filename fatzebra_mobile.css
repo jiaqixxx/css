@@ -11,7 +11,7 @@
 }
 
 .payment-summary h5 {
-	margin: 0 !important;
+	margin: 5px !important;
 }
 
 fieldset .control-group label {
@@ -19,8 +19,8 @@ fieldset .control-group label {
 }
 
 #card fieldset .control-group:nth-child(1) {
-        display: inline-block;
-        width: 40%;
+    display: inline-block;
+    width: 40%;
 }
 
 #card fieldset .control-group:nth-child(2) {
@@ -41,4 +41,12 @@ fieldset .control-group label {
 .control-group .controls .btn {
         padding: 6px 12px;
         font-size: 14px;
-    }
+}
+
+.payment_form-mh {
+	min-height: 3rem !important;
+}
+
+.control-group {
+	margin-bottom: 0 !important;
+}
