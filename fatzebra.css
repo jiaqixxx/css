@@ -1,4 +1,5 @@
-    .merchant-logo {
+@media (min-width: 768px) {
+     .merchant-logo {
           display: none !important;
      }
      
@@ -38,3 +39,4 @@
     .payment_form-mh {
         min-height: 4rem;
     }
+}
