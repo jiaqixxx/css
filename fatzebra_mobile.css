@@ -32,3 +32,13 @@ fieldset .control-group label {
 .control-group .controls input {
     height: 30px !important;
 }
+
+#security-code {
+	float: left !important;
+	margin-left: 20px;
+}
+
+.control-group .controls .btn {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
