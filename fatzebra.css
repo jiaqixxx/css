@@ -1,4 +1,4 @@
-     .merchant-logo h2 {
+       .merchant-logo {
           display: none;
      }
      
@@ -7,8 +7,8 @@
         margin: auto;
     }
 
-    .merchant-logo {
-        display: none;
+    .payment-summary h5{
+        margin: 0;
     }
 
     #card fieldset .control-group:nth-child(1) {
@@ -32,12 +32,13 @@
         margin-bottom: 0;
     }
 
+
+    .control-group .controls input {
+        height: 30px;
+    }
+
     .control-group .controls .btn {
         padding: 6px 12px;
         font-size: 14px;
     }
 
-
-@media (max-width: 768px) {
-
-}
