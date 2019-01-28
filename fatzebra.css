@@ -1,4 +1,4 @@
-       .merchant-logo {
+    .merchant-logo {
           display: none !important;
      }
      
@@ -8,7 +8,7 @@
     }
 
     .payment-summary h5{
-        margin: 0;
+        margin: 0 !important;
     }
 
     #card fieldset .control-group:nth-child(1) {
@@ -19,22 +19,15 @@
     #card fieldset .control-group:nth-child(2) {
         display: inline-block;
         width: 50%;
-        float: right
-    }
-
-    body.v2 input.payment-input, body.payment input.payment-input {
-        border-radius: 4px;
-        height: 2.8rem;
-        width: 100%;
+        float: right;
     }
 
     .control-group {
-        margin-bottom: 0;
+        margin-bottom: 0 !important;
     }
 
-
     .control-group .controls input {
-        height: 30px;
+        height: 30px !important;
     }
 
     .control-group .controls .btn {
