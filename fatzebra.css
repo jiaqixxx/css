@@ -35,3 +35,6 @@
         font-size: 14px;
     }
 
+    .payment_form-mh {
+        min-height: 4rem;
+    }
