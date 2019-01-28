@@ -1,5 +1,5 @@
        .merchant-logo {
-          display: none;
+          display: none !important;
      }
      
      #payment-show {
