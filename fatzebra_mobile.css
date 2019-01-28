@@ -1,1 +1,34 @@
+.merchant-logo {
+	display: none !important;
+}
 
+#payment-show {
+	border: 1px solid #ccc;
+}
+
+.payment-summary {
+	margin: 0 !important;
+}
+
+.payment-summary h5 {
+	margin: 0 !important;
+}
+
+fieldset .control-group label {
+	font-size: 12px !important;
+}
+
+#card fieldset .control-group:nth-child(1) {
+        display: inline-block;
+        width: 40%;
+}
+
+#card fieldset .control-group:nth-child(2) {
+    display: inline-block;
+    width: 50%;
+    float: right;
+}
+
+.control-group .controls input {
+    height: 30px !important;
+}
